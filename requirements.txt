@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+mysql-connector-python==8.1.0
+requests==2.31.0
+jieba==0.42.1
+websocket-client==1.6.3
+gunicorn==21.2.0
+python-dotenv==1.0.0
