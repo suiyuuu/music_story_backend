@@ -6,3 +6,7 @@ jieba==0.42.1
 websocket-client==1.6.3
 gunicorn==21.2.0
 python-dotenv==1.0.0
+fastapi==0.95.1
+pydantic==1.10.7
+uvicorn==0.22.0
+numpy==1.24.3
